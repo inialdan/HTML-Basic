@@ -12,4 +12,5 @@ HTML Basic Code
 
 Formatting
 - Bold
+- Strong
 - Italic
