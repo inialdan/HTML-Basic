@@ -11,6 +11,7 @@ HTML Basic Code
 <br>
 
 Formatting
-- Bold
-- Strong
-- Italic
+- Bold <b>
+- Strong <strong>
+- Italic <i>
+- Em <e>
