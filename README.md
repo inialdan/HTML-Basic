@@ -14,4 +14,5 @@ Formatting
 - Bold <b>
 - Strong <strong>
 - Italic <i>
-- Em <e>
+- Em <em>
+- Mark <mark>
