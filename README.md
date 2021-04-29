@@ -16,3 +16,4 @@ Formatting
 - Italic <i>
 - Em <em>
 - Mark <mark>
+- Small <small>
