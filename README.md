@@ -17,3 +17,4 @@ Formatting
 - Em <em>
 - Mark <mark>
 - Small <small>
+- Deleted <del>
