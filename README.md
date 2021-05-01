@@ -18,3 +18,4 @@ Formatting
 - Mark <mark>
 - Small <small>
 - Deleted <del>
+- Inserted <ins>
