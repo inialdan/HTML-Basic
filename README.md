@@ -19,3 +19,4 @@ Formatting
 - Small <small>
 - Deleted <del>
 - Inserted <ins>
+- Subscript <sub>
