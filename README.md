@@ -20,3 +20,4 @@ Formatting
 - Deleted <del>
 - Inserted <ins>
 - Subscript <sub>
+- Superscript <sup>
