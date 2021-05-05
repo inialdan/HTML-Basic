@@ -23,3 +23,6 @@ Formatting
 - Inserted <ins>
 - Subscript <sub>
 - Superscript <sup>
+
+Quotation
+- Blockquote <blockquote>
