@@ -6,9 +6,9 @@ HTML Basic Code
 
 Basic
 - Simple Document (HTML Tag, h1, p)
-- Headings <h1>, <h2>, <h3>, <h4>, <h5>, <h6>
+- Headings (h1, h2, h3, h4, h5, h6)
 - Paragraphs <p>
-- Links <a href="">
+- Links <a>
 - Images <img>
 
 
