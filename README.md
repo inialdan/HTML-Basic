@@ -16,8 +16,8 @@ Formatting
 - Bold <b></b>
 - Strong <strong></strong>
 - Italic <i></i>
-- Em <em>
-- Mark <mark></em>
+- Em <em></em>
+- Mark <mark></mark>
 - Small <small></small>
 - Deleted <del></del>
 - Inserted <ins></ins>
