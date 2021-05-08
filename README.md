@@ -7,25 +7,25 @@ HTML Basic Code
 Basic
 - Simple Document (HTML Tag, h1, p)
 - Headings (h1, h2, h3, h4, h5, h6)
-- Paragraphs <p>
-- Links <a>
-- Images <img>
+- Paragraphs <p></p>
+- Links <a></a>
+- Images <img></img>
 
 
 Formatting
-- Bold <b>
-- Strong <strong>
-- Italic <i>
+- Bold <b></b>
+- Strong <strong></strong>
+- Italic <i></i>
 - Em <em>
-- Mark <mark>
-- Small <small>
-- Deleted <del>
-- Inserted <ins>
-- Subscript <sub>
-- Superscript <sup>
+- Mark <mark></em>
+- Small <small></small>
+- Deleted <del></del>
+- Inserted <ins></ins>
+- Subscript <sub></sub>
+- Superscript <sup></sup>
 
 Quotation
-- Blockquote <blockquote>
-- Short Quotations <q>
-- Abbreviations <abbr>
-- Address <address>
+- Blockquote <blockquote></blockquote>
+- Short Quotations <q></q>
+- Abbreviations <abbr></abbr>
+- Address <address></address>
