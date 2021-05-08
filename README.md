@@ -27,3 +27,5 @@ Formatting
 Quotation
 - Blockquote <blockquote>
 - Short Quotations <q>
+- Abbreviations <abbr>
+- Address <address>
