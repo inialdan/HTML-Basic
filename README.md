@@ -2,7 +2,6 @@
 HTML Basic Code
 
 - Basic HTML (HTML Tag, Head > Title, Body)
-<br>
 
 Basic
 - Simple Document (HTML Tag, h1, p)
@@ -29,3 +28,4 @@ Quotation
 - Short Quotations <q></q>
 - Abbreviations <abbr></abbr>
 - Address <address></address>
+- Cite <cite></cite>
