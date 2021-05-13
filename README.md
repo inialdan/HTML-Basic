@@ -30,4 +30,7 @@ Quotation
 - Cite <cite></cite>
 - Bi-Directional Override <bdo></bdo>
 
-Comment
+Comment <!-- Add more information here -->
+
+Colors
+- background-color (style="background-color:DodgerBlue;")
