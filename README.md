@@ -33,4 +33,5 @@ Quotation
 Comment <!-- Add more information here -->
 
 Colors
-- background-color (style="background-color:DodgerBlue;")
+- background-color (style="background-color:Red;")
+- text-color (style="color:Red;)
