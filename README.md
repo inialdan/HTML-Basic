@@ -36,3 +36,6 @@ Colors
 - background-color (style="background-color:Red;")
 - text-color (style="color:Red;)
 - border-color (style="border:2px solid Tomato;")
+
+CSS
+- Inline
