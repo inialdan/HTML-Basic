@@ -39,3 +39,8 @@ Colors
 
 CSS
 - Inline
+
+Links
+- Url Absolute
+- Url Relative
+- Url Target
