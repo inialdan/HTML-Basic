@@ -44,3 +44,4 @@ Links
 - Url Absolute
 - Url Relative
 - Url Target
+- Images as a Url
