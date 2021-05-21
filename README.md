@@ -45,3 +45,5 @@ Links
 - Url Relative
 - Url Target
 - Images as a Url
+- Email Address
+
