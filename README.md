@@ -46,4 +46,5 @@ Links
 - Url Target
 - Images as a Url
 - Email Address
+- Button
 
