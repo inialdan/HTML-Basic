@@ -47,4 +47,5 @@ Links
 - Images as a Url
 - Email Address
 - Button
+- Colors
 
