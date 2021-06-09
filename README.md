@@ -50,3 +50,7 @@ Links
 - Colors
 - Bookmark
 
+Images
+- Basic
+- Map
+
