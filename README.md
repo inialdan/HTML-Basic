@@ -31,6 +31,7 @@ Quotation
 - Bi-Directional Override <bdo></bdo>
 
 Comment <!-- Add more information here -->
+- <!-- Add more information here -- >
 
 Colors
 - background-color (style="background-color:Red;")
