@@ -59,4 +59,5 @@ Images
 
 Table
 - Basic
+- Span
 
