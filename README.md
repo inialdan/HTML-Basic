@@ -60,4 +60,5 @@ Images
 Table
 - Basic
 - Span
+- Caption
 
