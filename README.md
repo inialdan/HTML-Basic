@@ -62,4 +62,5 @@ Table
 - Span
 - Row
 - Caption
+- Special Style
 
