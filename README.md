@@ -63,4 +63,5 @@ Table
 - Row
 - Caption
 - Special Style
+- Cell Spacing
 
