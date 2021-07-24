@@ -66,3 +66,5 @@ Table
 - Cell Spacing
 - Cell Padding
 
+List
+- Basic
