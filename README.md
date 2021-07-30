@@ -74,3 +74,4 @@ List
 
 Block & Inline
 - Block-level
+- Inline
