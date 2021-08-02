@@ -76,3 +76,4 @@ Block & Inline
 - Block-level
 - Inline
 - Div Element
+- Span Element
