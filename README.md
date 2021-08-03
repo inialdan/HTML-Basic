@@ -77,3 +77,6 @@ Block & Inline
 - Inline
 - Div Element
 - Span Element
+
+Classes
+- Basic
