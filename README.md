@@ -94,4 +94,5 @@ Iframes
 - Target for a link
 
 JavaScript
+- Basic
 - Date and Time
