@@ -96,3 +96,4 @@ Iframes
 JavaScript
 - Basic
 - Date and Time
+- Change Style
