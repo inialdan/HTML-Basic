@@ -97,3 +97,4 @@ JavaScript
 - Basic
 - Date and Time
 - Change Style
+- Change Images
