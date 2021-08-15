@@ -98,3 +98,4 @@ JavaScript
 - Date and Time
 - Change Style
 - Change Images
+- No Script
