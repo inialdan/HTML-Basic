@@ -99,3 +99,6 @@ JavaScript
 - Change Style
 - Change Images
 - No Script
+
+File Path
+- Url
