@@ -102,3 +102,4 @@ JavaScript
 
 File Path
 - Url
+- Relative Path
