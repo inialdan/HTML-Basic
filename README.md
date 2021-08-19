@@ -103,3 +103,6 @@ JavaScript
 File Path
 - Url
 - Relative Path
+
+Head
+- Title
