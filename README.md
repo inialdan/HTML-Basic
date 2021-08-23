@@ -111,3 +111,6 @@ Head
 Layout
 - CSS Float
 - CSS Flexbox
+
+Responsive
+- Viewport
