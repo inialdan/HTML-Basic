@@ -114,3 +114,4 @@ Layout
 
 Responsive
 - Viewport
+- Image
