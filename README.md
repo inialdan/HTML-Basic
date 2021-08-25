@@ -115,3 +115,4 @@ Layout
 Responsive
 - Viewport
 - Image
+- Image max-width
