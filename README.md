@@ -117,3 +117,4 @@ Responsive
 - Image
 - Image max-width
 - Different Image
+- Text
