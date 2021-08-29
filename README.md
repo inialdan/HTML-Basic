@@ -118,3 +118,4 @@ Responsive
 - Image max-width
 - Different Image
 - Text
+- Media Queries
