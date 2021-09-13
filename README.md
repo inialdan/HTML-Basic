@@ -128,3 +128,6 @@ Computer Code
 - Input Keyboard
 - Program Output
 - Variables
+
+Semantics
+- Section
