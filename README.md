@@ -127,3 +127,4 @@ Computer Code
 - Code Pre
 - Input Keyboard
 - Program Output
+- Variables
