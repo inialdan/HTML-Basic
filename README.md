@@ -132,3 +132,4 @@ Computer Code
 Semantics
 - Section
 - Article
+- Footer
