@@ -133,3 +133,4 @@ Semantics
 - Section
 - Article
 - Footer
+- Nav
