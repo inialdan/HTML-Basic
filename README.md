@@ -136,3 +136,4 @@ Semantics
 - Nav
 - Header
 - Aside
+- Figure
