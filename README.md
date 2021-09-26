@@ -140,3 +140,4 @@ Semantics
 - Mark
 - Summary
 - Time
+- Details
