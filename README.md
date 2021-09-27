@@ -142,3 +142,4 @@ Semantics
 - Time
 - Details
 - Figcaption
+- Main
