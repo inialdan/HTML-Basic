@@ -143,3 +143,6 @@ Semantics
 - Details
 - Figcaption
 - Main
+
+Style Guide
+- Document Type
