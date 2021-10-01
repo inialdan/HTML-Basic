@@ -147,3 +147,4 @@ Semantics
 Style Guide
 - Document Type
 - Lowercase Element Name
+- Close All Html Elements
