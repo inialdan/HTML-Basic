@@ -148,3 +148,4 @@ Style Guide
 - Document Type
 - Lowercase Element Name
 - Close All Html Elements
+- Lowercase Attribute Name
