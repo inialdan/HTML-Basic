@@ -149,3 +149,4 @@ Style Guide
 - Lowercase Element Name
 - Close All Html Elements
 - Lowercase Attribute Name
+- Always Quote Attribute Values
