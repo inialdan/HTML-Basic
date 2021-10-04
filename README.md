@@ -150,3 +150,4 @@ Style Guide
 - Close All Html Elements
 - Lowercase Attribute Name
 - Always Quote Attribute Values
+- Always Specify alt, width, and height for Images
