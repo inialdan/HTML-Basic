@@ -152,3 +152,4 @@ Style Guide
 - Always Quote Attribute Values
 - Always Specify alt, width, and height for Images
 - Spaces and Equal Signs
+- Avoid Long Code Lines
