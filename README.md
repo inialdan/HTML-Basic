@@ -155,3 +155,4 @@ Style Guide
 - Avoid Long Code Lines
 - Good Table
 - Good List
+- Lang Attribute
