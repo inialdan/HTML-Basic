@@ -158,3 +158,4 @@ Style Guide
 - Lang Attribute
 - Meta Data
 - Setting Viewport
+- Comments
