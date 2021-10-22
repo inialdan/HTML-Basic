@@ -159,3 +159,4 @@ Style Guide
 - Meta Data
 - Setting Viewport
 - Comments
+- Loading JavaScript
