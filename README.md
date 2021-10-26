@@ -160,3 +160,4 @@ Style Guide
 - Setting Viewport
 - Comments
 - Loading JavaScript
+- Accessing HTML Elements with JavaScript

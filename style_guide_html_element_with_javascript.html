@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Accessing HTML Elements with JavaScript</title>
+        <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Add meta data here -->
+    </head>
+    <body>
+        <p id="Demo">This is paragraph 1.</p>
+        <p id="demo">This is paragraph 2.</p>
+        
+        <script>
+            // Only paragraph 2 will be overwritten
+            document.getElementById("demo").innerHTML = "HELLO.";
+        </script>
+    </body>
+</html>
