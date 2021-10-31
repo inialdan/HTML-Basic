@@ -161,3 +161,6 @@ Style Guide
 - Comments
 - Loading JavaScript
 - Accessing HTML Elements with JavaScript
+
+Entities
+- Non-breaking space
