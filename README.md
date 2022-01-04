@@ -165,3 +165,4 @@ Style Guide
 Entities
 - Non-breaking space
 - Less-than sign
+- Greater-than sign
