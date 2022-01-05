@@ -166,3 +166,4 @@ Entities
 - Non-breaking space
 - Less-than sign
 - Greater-than sign
+- Ampersand sign
