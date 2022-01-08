@@ -167,3 +167,4 @@ Entities
 - Less-than sign
 - Greater-than sign
 - Ampersand sign
+- Double quote sign
