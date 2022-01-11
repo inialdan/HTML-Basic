@@ -168,3 +168,4 @@ Entities
 - Greater-than sign
 - Ampersand sign
 - Double quote sign
+- Single quotation mark (apostrophe)
