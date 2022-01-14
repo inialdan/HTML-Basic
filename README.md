@@ -168,4 +168,5 @@ Entities
 - Greater-than sign
 - Ampersand sign
 - Double quote sign
-- Single quotation mark (apostrophe)
+- Single quotation mark (apostrophe) sign
+- Cent sign
