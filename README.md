@@ -170,3 +170,4 @@ Entities
 - Double quote sign
 - Single quotation mark (apostrophe) sign
 - Cent sign
+- Pound Sign
