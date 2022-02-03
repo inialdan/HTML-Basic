@@ -172,3 +172,4 @@ Entities
 - Cent sign
 - Pound Sign
 - Yen Sign
+- Euro Sign
