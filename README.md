@@ -173,3 +173,4 @@ Entities
 - Pound Sign
 - Yen Sign
 - Euro Sign
+- Copyright Sign
