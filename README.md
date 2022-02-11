@@ -174,3 +174,4 @@ Entities
 - Yen Sign
 - Euro Sign
 - Copyright Sign
+- Registered Trade Mark Sign
