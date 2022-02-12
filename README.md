@@ -175,3 +175,4 @@ Entities
 - Euro Sign
 - Copyright Sign
 - Registered Trade Mark Sign
+- Special Character Grave Accent
