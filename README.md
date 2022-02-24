@@ -176,3 +176,4 @@ Entities
 - Copyright Sign
 - Registered Trade Mark Sign
 - Special Character Grave Accent
+- Special Character Acute Accent
