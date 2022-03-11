@@ -179,3 +179,6 @@ Entities
 - Special Character Acute Accent
 - Special Character Circumflex Accent
 - Special Character Tilde Accent
+
+Symbol
+- For All
