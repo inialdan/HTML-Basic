@@ -182,3 +182,4 @@ Entities
 
 Symbol
 - For All
+- Partial Differential
