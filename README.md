@@ -183,3 +183,4 @@ Entities
 Symbol
 - For All
 - Partial Differential
+- There-exists
