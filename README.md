@@ -185,3 +185,4 @@ Symbol
 - Partial Differential
 - There-exists
 - Empty-sets
+- Nabla
