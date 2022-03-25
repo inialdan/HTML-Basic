@@ -187,3 +187,4 @@ Symbol
 - Empty-sets
 - Nabla
 - Element-of
+- Not-an-element-of
