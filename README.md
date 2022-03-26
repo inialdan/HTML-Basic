@@ -188,3 +188,4 @@ Symbol
 - Nabla
 - Element-of
 - Not-an-element-of
+- Contains-a-member<
