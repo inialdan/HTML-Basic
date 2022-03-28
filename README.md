@@ -190,3 +190,4 @@ Symbol
 - Not-an-element-of
 - Contains-a-member
 - N-ARY Product
+- N-ARY Summary
