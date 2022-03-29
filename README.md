@@ -191,3 +191,6 @@ Symbol
 - Contains-a-member
 - N-ARY Product
 - N-ARY Summary
+
+Emojis
+- Sample
