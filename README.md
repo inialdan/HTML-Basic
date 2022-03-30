@@ -194,3 +194,4 @@ Symbol
 
 Emojis
 - Sample
+- Sample Characters
