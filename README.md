@@ -196,3 +196,4 @@ Emojis
 - Sample
 - Sample Characters
 - Sized Emojis
+- Example
