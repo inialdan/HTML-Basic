@@ -197,3 +197,6 @@ Emojis
 - Sample Characters
 - Sized Emojis
 - Example
+
+HTML Form
+- Example
