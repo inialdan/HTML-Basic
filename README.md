@@ -205,3 +205,4 @@ HTML Form
 - Text Fields
 - Label
 - Radio Button
+- Checkbox
