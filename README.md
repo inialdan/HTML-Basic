@@ -207,3 +207,6 @@ HTML Form
 - Radio Button
 - Checkbox
 - Submit Button
+
+HTML Form Attributes
+- The target attribute
