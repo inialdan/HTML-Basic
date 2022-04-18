@@ -212,3 +212,4 @@ HTML Form Attributes
 - The target attribute
 - Method Get
 - Method Post
+- Autocomplete
