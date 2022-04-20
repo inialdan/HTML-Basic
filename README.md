@@ -213,3 +213,4 @@ HTML Form Attributes
 - Method Get
 - Method Post
 - Autocomplete
+- Novalidate
