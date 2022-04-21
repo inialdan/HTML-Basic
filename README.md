@@ -214,3 +214,4 @@ HTML Form Attributes
 - Method Post
 - Autocomplete
 - Novalidate
+- Accept-charset
