@@ -215,3 +215,4 @@ HTML Form Attributes
 - Autocomplete
 - Novalidate
 - Accept-charset
+- Encytpe
