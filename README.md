@@ -216,3 +216,4 @@ HTML Form Attributes
 - Novalidate
 - Accept-charset
 - Encytpe
+- Name
