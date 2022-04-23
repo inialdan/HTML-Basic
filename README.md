@@ -1,6 +1,8 @@
 # HTML-Basic
 HTML Basic Code
 
+![Banner](assets/HTML%20Basic.png)
+
 - Basic HTML (HTML Tag, Head > Title, Body)
 
 Basic
@@ -30,8 +32,8 @@ Quotation
 - Cite <cite></cite>
 - Bi-Directional Override <bdo></bdo>
 
-Comment <!-- Add more information here -->
-- <!-- Add more information here -- >
+Comment
+- Basic
 
 Colors
 - background-color (style="background-color:Red;")
