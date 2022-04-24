@@ -1,5 +1,5 @@
-# HTML-Basic
-HTML Basic Code
+# HTML Basic
+Learn HTML Basic Code
 
 ![Banner](assets/HTML%20Basic.png)
 
@@ -8,29 +8,29 @@ HTML Basic Code
 Basic
 - Simple Document (HTML Tag, h1, p)
 - Headings (h1, h2, h3, h4, h5, h6)
-- Paragraphs <p></p>
-- Links <a></a>
-- Images <img></img>
+- Paragraphs
+- Links
+- Images
 
 Formatting
-- Bold <b></b>
-- Strong <strong></strong>
-- Italic <i></i>
-- Em <em></em>
-- Mark <mark></mark>
-- Small <small></small>
-- Deleted <del></del>
-- Inserted <ins></ins>
-- Subscript <sub></sub>
-- Superscript <sup></sup>
+- Bold
+- Strong
+- Italic
+- Em
+- Mark
+- Small
+- Deleted
+- Inserted
+- Subscript
+- Superscript
 
 Quotation
-- Blockquote <blockquote></blockquote>
-- Short Quotations <q></q>
-- Abbreviations <abbr></abbr>
-- Address <address></address>
-- Cite <cite></cite>
-- Bi-Directional Override <bdo></bdo>
+- Blockquote
+- Short Quotations
+- Abbreviations
+- Address
+- Cite
+- Bi-Directional Override
 
 Comment
 - Basic
@@ -219,3 +219,6 @@ HTML Form Attributes
 - Accept-charset
 - Encytpe
 - Name
+
+HTML Form Element
+- Input
