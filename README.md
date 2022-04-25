@@ -222,3 +222,4 @@ HTML Form Attributes
 
 HTML Form Element
 - Input
+- Label
