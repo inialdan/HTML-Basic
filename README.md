@@ -226,3 +226,4 @@ HTML Form Element
 - Select
     - Selected
     - Size
+    - Multiple
