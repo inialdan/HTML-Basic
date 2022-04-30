@@ -227,3 +227,4 @@ HTML Form Element
     - Selected
     - Size
     - Multiple
+- Textarea
