@@ -232,3 +232,4 @@ HTML Form Element
 - Fieldset and elements
 - Datalist
 - Output
+- Legend
