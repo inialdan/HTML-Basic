@@ -234,3 +234,6 @@ HTML Form Element
 - Output
 - Legend
 - Optgroup
+
+HTML Input Type
+- Text
