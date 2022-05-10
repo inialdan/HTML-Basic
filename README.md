@@ -239,3 +239,4 @@ HTML Input Type
 - Text
 - Password
 - Submit
+- Reset
