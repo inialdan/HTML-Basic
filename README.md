@@ -238,3 +238,4 @@ HTML Form Element
 HTML Input Type
 - Text
 - Password
+- Submit
