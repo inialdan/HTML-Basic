@@ -240,3 +240,4 @@ HTML Input Type
 - Password
 - Submit
 - Reset
+- Radio
