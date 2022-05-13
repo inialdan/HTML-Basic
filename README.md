@@ -241,3 +241,4 @@ HTML Input Type
 - Submit
 - Reset
 - Radio
+- Checkbox
