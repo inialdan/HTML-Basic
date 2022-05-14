@@ -242,3 +242,4 @@ HTML Input Type
 - Reset
 - Radio
 - Checkbox
+- Button
