@@ -243,3 +243,4 @@ HTML Input Type
 - Radio
 - Checkbox
 - Button
+- Color
