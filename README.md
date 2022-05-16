@@ -244,3 +244,4 @@ HTML Input Type
 - Checkbox
 - Button
 - Color
+- Date
