@@ -245,3 +245,5 @@ HTML Input Type
 - Button
 - Color
 - Date
+    - Basic
+    - Field Restrictions
