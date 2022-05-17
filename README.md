@@ -247,3 +247,4 @@ HTML Input Type
 - Date
     - Basic
     - Field Restrictions
+    - Local
