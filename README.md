@@ -248,3 +248,4 @@ HTML Input Type
     - Basic
     - Field Restrictions
     - Local
+- Email
