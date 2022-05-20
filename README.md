@@ -249,3 +249,4 @@ HTML Input Type
     - Field Restrictions
     - Local
 - Email
+- File
