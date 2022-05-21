@@ -251,3 +251,4 @@ HTML Input Type
 - Email
 - File
 - Hidden
+- Month
