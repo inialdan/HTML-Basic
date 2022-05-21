@@ -250,3 +250,4 @@ HTML Input Type
     - Local
 - Email
 - File
+- Hidden
