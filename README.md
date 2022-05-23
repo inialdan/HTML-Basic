@@ -252,3 +252,4 @@ HTML Input Type
 - File
 - Hidden
 - Month
+- Number
