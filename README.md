@@ -254,3 +254,4 @@ HTML Input Type
 - Month
 - Number
 - Range
+- Search
