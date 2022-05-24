@@ -253,3 +253,4 @@ HTML Input Type
 - Hidden
 - Month
 - Number
+- Range
