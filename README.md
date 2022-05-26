@@ -255,3 +255,4 @@ HTML Input Type
 - Number
 - Range
 - Search
+- Telephone
