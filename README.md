@@ -256,3 +256,4 @@ HTML Input Type
 - Range
 - Search
 - Telephone
+- Time
