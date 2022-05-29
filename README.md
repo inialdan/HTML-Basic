@@ -258,3 +258,4 @@ HTML Input Type
 - Telephone
 - Time
 - Url
+- Week
