@@ -257,3 +257,4 @@ HTML Input Type
 - Search
 - Telephone
 - Time
+- Url
