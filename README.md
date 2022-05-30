@@ -259,3 +259,6 @@ HTML Input Type
 - Time
 - Url
 - Week
+
+HTML Input Attribute
+- Value
