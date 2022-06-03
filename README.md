@@ -263,3 +263,4 @@ HTML Input Type
 HTML Input Attribute
 - Value
 - Readonly
+- Disabled
