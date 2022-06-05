@@ -265,3 +265,4 @@ HTML Input Attribute
 - Readonly
 - Disabled
 - Size
+- Maxlength
