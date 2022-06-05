@@ -264,3 +264,4 @@ HTML Input Attribute
 - Value
 - Readonly
 - Disabled
+- Size
