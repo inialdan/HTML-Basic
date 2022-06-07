@@ -266,3 +266,4 @@ HTML Input Attribute
 - Disabled
 - Size
 - Maxlength
+- Min and Max
