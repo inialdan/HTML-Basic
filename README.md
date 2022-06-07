@@ -267,3 +267,4 @@ HTML Input Attribute
 - Size
 - Maxlength
 - Min and Max
+- Multiple
