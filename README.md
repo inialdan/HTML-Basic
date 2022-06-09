@@ -269,3 +269,4 @@ HTML Input Attribute
 - Min and Max
 - Multiple
 - Pattern
+- Placeholder
