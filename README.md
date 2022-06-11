@@ -270,3 +270,4 @@ HTML Input Attribute
 - Multiple
 - Pattern
 - Placeholder
+- Required
