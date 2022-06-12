@@ -271,3 +271,4 @@ HTML Input Attribute
 - Pattern
 - Placeholder
 - Required
+- Step
