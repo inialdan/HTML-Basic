@@ -273,3 +273,4 @@ HTML Input Attribute
 - Required
 - Step
 - Autofocus
+- Height and Width
