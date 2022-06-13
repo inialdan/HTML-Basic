@@ -272,3 +272,4 @@ HTML Input Attribute
 - Placeholder
 - Required
 - Step
+- Autofocus
