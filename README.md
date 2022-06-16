@@ -275,3 +275,4 @@ HTML Input Attribute
 - Autofocus
 - Height and Width
 - List
+- Autocomplete
