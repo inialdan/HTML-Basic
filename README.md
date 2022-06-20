@@ -281,3 +281,4 @@ HTML Input Form Attributes
 - Example
 - Action
 - Enctype
+- Method
