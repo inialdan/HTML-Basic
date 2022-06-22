@@ -282,3 +282,4 @@ HTML Input Form Attributes
 - Action
 - Enctype
 - Method
+- Target
