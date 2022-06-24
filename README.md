@@ -283,3 +283,4 @@ HTML Input Form Attributes
 - Enctype
 - Method
 - Target
+- Novalidate
