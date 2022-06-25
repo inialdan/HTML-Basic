@@ -285,3 +285,6 @@ HTML Input Form Attributes
 - Target
 - Novalidate
 - Novalidate as Form
+
+HTML Graphics
+- Canvas
