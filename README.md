@@ -284,3 +284,4 @@ HTML Input Form Attributes
 - Method
 - Target
 - Novalidate
+- Novalidate as Form
