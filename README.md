@@ -288,3 +288,4 @@ HTML Input Form Attributes
 
 HTML Graphics
 - Canvas
+- Canvas Add Java Script
