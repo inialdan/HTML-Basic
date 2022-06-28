@@ -290,3 +290,4 @@ HTML Graphics
 - Canvas
 - Canvas Add Java Script
 - Canvas Draw Circle
+- Canvas Draw Text
