@@ -291,3 +291,4 @@ HTML Graphics
 - Canvas Add Java Script
 - Canvas Draw Circle
 - Canvas Draw Text
+- Canvas Draw Text Stroke
