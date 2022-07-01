@@ -293,3 +293,4 @@ HTML Graphics
 - Canvas Draw Text
 - Canvas Draw Text Stroke
 - Canvas Draw Linear Gradient
+- Canvas Draw Circular Gradient
