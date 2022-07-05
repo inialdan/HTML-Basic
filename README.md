@@ -298,3 +298,4 @@ HTML Graphics
 
 HTML SVG
 - Rectangle
+- Rounded Rectangle
