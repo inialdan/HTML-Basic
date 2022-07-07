@@ -301,3 +301,4 @@ HTML SVG
 - Rounded Rectangle
 - Circle
 - Ellipse
+- Star
