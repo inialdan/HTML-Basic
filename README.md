@@ -300,3 +300,4 @@ HTML SVG
 - Rectangle
 - Rounded Rectangle
 - Circle
+- Ellipse
