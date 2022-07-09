@@ -302,3 +302,4 @@ HTML SVG
 - Circle
 - Ellipse
 - Star
+- Logo
