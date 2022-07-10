@@ -303,3 +303,6 @@ HTML SVG
 - Ellipse
 - Star
 - Logo
+
+HTML Video
+- Video Basic
