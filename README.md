@@ -307,3 +307,4 @@ HTML SVG
 HTML Video
 - Video Basic
 - Autoplay
+- Autoplay muted
