@@ -306,3 +306,4 @@ HTML SVG
 
 HTML Video
 - Video Basic
+- Autoplay
