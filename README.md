@@ -308,3 +308,6 @@ HTML Video
 - Video Basic
 - Autoplay
 - Autoplay muted
+
+HTML Audio
+- Audio Basic
