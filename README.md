@@ -306,8 +306,8 @@ HTML SVG
 
 HTML Video
 - Video Basic
-- Autoplay
-- Autoplay muted
+- Video Autoplay
+- Video Autoplay muted
 
 HTML Audio
 - Audio Basic
