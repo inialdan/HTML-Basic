@@ -312,3 +312,4 @@ HTML Video
 HTML Audio
 - Audio Basic
 - Audio Autoplay
+- Audio Autoplay Muted
