@@ -315,3 +315,6 @@ HTML Audio
 - Audio Autoplay Muted
 
 HTML Snippet
+
+HTML Pluggins
+- Object HTML
