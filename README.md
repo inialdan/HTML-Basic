@@ -318,3 +318,4 @@ HTML Snippet
 
 HTML Pluggins
 - Object HTML
+- Object Image
