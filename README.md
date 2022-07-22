@@ -322,3 +322,4 @@ HTML Pluggins
 
 HTML YouTube
 - YouTube Basic
+- YouTube Autoplay
