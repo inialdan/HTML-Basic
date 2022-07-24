@@ -323,3 +323,4 @@ HTML Pluggins
 HTML YouTube
 - YouTube Basic
 - YouTube Autoplay
+- YouTube Autoplay Muted
