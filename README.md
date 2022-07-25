@@ -324,3 +324,4 @@ HTML YouTube
 - YouTube Basic
 - YouTube Autoplay
 - YouTube Autoplay Muted
+- YouTube Loop
