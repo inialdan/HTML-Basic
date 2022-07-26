@@ -326,3 +326,4 @@ HTML YouTube
 - YouTube Autoplay Muted
 - YouTube Loop
 - YouTube Playlist
+- YouTube Control Active
