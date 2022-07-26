@@ -325,3 +325,4 @@ HTML YouTube
 - YouTube Autoplay
 - YouTube Autoplay Muted
 - YouTube Loop
+- YouTube Playlist
