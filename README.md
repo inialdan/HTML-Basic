@@ -327,3 +327,4 @@ HTML YouTube
 - YouTube Loop
 - YouTube Playlist
 - YouTube Control Active
+- YouTube Control Non Active
