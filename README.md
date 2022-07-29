@@ -328,3 +328,6 @@ HTML YouTube
 - YouTube Playlist
 - YouTube Control Active
 - YouTube Control Non Active
+
+HTML Geolocation
+- Geolocation Basic
