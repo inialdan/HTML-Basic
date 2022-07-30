@@ -331,3 +331,4 @@ HTML YouTube
 
 HTML Geolocation
 - Geolocation Basic
+- Geolocation handling erros and rejections
