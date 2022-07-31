@@ -332,3 +332,6 @@ HTML YouTube
 HTML Geolocation
 - Geolocation Basic
 - Geolocation handling erros and rejections
+
+HTML Drag and Drop
+- Drag and Drop Basic
