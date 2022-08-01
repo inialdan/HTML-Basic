@@ -335,3 +335,4 @@ HTML Geolocation
 
 HTML Drag and Drop
 - Drag and Drop Basic
+- Drag and Drop Another Sample
