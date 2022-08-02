@@ -339,3 +339,4 @@ HTML Drag and Drop
 
 HTML Web Storage
 - Web Storage Local Basic
+- Web Storage Local Click Count
