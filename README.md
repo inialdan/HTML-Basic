@@ -341,3 +341,6 @@ HTML Web Storage
 - Web Storage Local Basic
 - Web Storage Local Click Count
 - Web Storage Session Click Count
+
+HTML Web Workers
+- Web Worker Basic
