@@ -344,3 +344,6 @@ HTML Web Storage
 
 HTML Web Workers
 - Web Worker Basic
+
+HTML SSE (Server-Sent Event)
+- SSE Receive
